@@ -1,6 +1,6 @@
 # Data-analysis-using-SQL
 
-This project leverages SQL to analyze orders and sales data, providing actionable insights to enhance decision-making and optimize performance.
+Combining SQL for precise data querying and Python for efficient data loading and cleaning, this project focuses on analyzing sales and order data. This dual approach ensures that our analysis is built on a solid foundation of clean, accurate data, providing deeper insights into business performance.
 
 **Working Steps**
 1. Downloaded Dataset from Kaggle api using PYTHON.
